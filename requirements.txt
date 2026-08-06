@@ -1,6 +1,6 @@
 tensorflow
 numpy
 matplotlib
-pillow
+Pillow
 tqdm
 jupyter
