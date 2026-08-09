@@ -23,7 +23,6 @@ Diffusion/
 ├── Diffusion.ipynb                     # Interactive Jupyter notebook
 └── requirements.txt                    # Python dependencies
 
-> Note: Some files are excluded from the repository due to their large size
 
 ## Installation
 
