@@ -69,11 +69,11 @@ GPU: RTX 4060 (8GB)
 
 ## References
 
-* Denoising Diffusion Probabilistic Models - Ho et al. (2020)
-* Improved Denoising Diffusion Probabilistic Models - Nichol & Dhariwal (2021)
-* U-Net: Convolutional Networks for Biomedical Image Segmentation - Ronneberger et al. (2015)
-* CelebA Dataset - Liu et al. (2015)
-* Attention Is All You Need - Vaswani et al. (2017)
+* Ho, J., Jain, A., & Abbeel, P. (2020). Denoising diffusion probabilistic models. Advances in neural information processing systems, 33, 6840-6851.
+* Nichol, A. Q., & Dhariwal, P. (2021, July). Improved denoising diffusion probabilistic models. In International conference on machine learning (pp. 8162-8171). PmLR.
+* Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Cham: Springer international publishing.
+* Liu, Z., Luo, P., Wang, X., & Tang, X. (2015). Deep learning face attributes in the wild. In Proceedings of the IEEE international conference on computer vision (pp. 3730-3738).
+* Ashish, V. (2017). Attention is all you need. Advances in neural information processing systems.
 
 ```
 
